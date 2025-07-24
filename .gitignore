@@ -1,0 +1,7 @@
+output/_SUCCESS
+output/._SUCCESS.crc
+output/.part-00000-*.csv.crc
+
+.venv
+
+.vscode
