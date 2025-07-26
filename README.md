@@ -4,5 +4,5 @@ Since Zerodha does not provide data for STCG and LTCG transactions before and af
 
 ### See The Video below:
 
-[![Demo Video ](https://img.youtube.com/vi/fkCaQiuek4o/1.jpg)](https://www.youtube.com/watch?v=fkCaQiuek4o)
+[![Demo Video ](https://img.youtube.com/vi/fkCaQiuek4o/1.jpg)](https://youtu.be/fkCaQiuek4o?t=247)
 
